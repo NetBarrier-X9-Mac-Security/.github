@@ -1,7 +1,7 @@
 # NetBarrier X9 for Mac – Advanced Security and Firewall
 
 <div align="center">  
-<img src="https://www.researchgate.net/publication/349115870/figure/fig6/AS:11431281102530438@1669484148599/NetBarrier-X9-firewall-C-2021-Intego.jpg" alt="NetBarrier X9 Logo" width="256" height="256">  
+<img src="https://cdn.dreamgame.com/assets/images/thumbs/618627896354d425c3c84d65-intego-netbarrier-x9-400.jpeg" alt="NetBarrier X9 Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
